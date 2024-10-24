@@ -18,7 +18,7 @@ Bachelor of Technology | Mechanical Engineering | M.M.M. University of Technolog
 
 
 ### Certifications:
-Coursera: Deep Learning by Andrew Ng
+Deep Learning by Andrew Ng
 
 <!--
 **jyotigangwar29/jyotigangwar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
