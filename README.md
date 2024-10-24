@@ -1,4 +1,4 @@
-## Hi I'm Jyoti!
+# Hi I'm Jyoti!
 I am passionate about leveraging data science to bridge the gap between business and technology. My experience in both engineering and business analytics gives me a unique perspective on solving complex, interdisciplinary challenges.
 
 ### Technical Skills:
