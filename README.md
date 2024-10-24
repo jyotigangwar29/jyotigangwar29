@@ -10,7 +10,7 @@ I am passionate about leveraging data science to bridge the gap between business
 
 
 ### Education:
-Master of Science | Business Analytics | The University of Texas at Austin
+Master of Science | Business Analytics | The University of Texas at Austin, USA
 
 Master of Technology | Production Engineering | Indian Institute of Technology, Delhi, India
 
