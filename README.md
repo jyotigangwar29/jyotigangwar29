@@ -1,9 +1,10 @@
-#### Hi I'm Jyoti!
+### Hi I'm Jyoti!
 
 <!--
 **jyotigangwar29/jyotigangwar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am passionate about leveraging data science to bridge the gap between business and technology. My experience in both mechanical engineering and business analytics gives me a unique perspective on solving complex, interdisciplinary challenges.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
