@@ -3,17 +3,19 @@ I am passionate about leveraging data science to bridge the gap between business
 
 #### Technical Skills:
 Programming Languages: Python, SQL, R
+
 Data Visualization: Tableau, PowerBI
+
 Data management: Relational DBMS, GraphDB, SnowFlake
 
 
-Education:
+#### Education:
 Master of Science | Business Analytics | The University of Texas at Austin
 Master of Technology | Production Engineering | Indian Institute of Technology, Delhi, India
 Bachelor of Technology | Mechanical Engineering | M.M.M. University of Technology, India
 
 
-Certifications:
+#### Certifications:
 Coursera: Deep Learning by Andrew Ng
 
 <!--
