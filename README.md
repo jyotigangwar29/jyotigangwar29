@@ -1,8 +1,11 @@
 # Hi, I'm Jyoti! 👋🏽
 
-I am passionate about data-driven decision-making and leveraging machine learning to solve real-world business problems
-🎯 **Bridging Business and Technology with Data Science**  
+I am passionate about data-driven decision-making and leveraging machine learning to solve real-world business problems.
+
 🎓 MS in Business Analytics at the University of Texas at Austin
+
+🎯 **Bridging Business and Technology with Data Science**  
+
 
 
 
