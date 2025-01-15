@@ -10,7 +10,7 @@
 ## 🌐 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas)  
 - [jyotikumari@utexas.edu](mailto:jyotikumari@utexas.edu)
----
+
 
 ## 🔍 What I Do
 **Data Analytics & Machine Learning:** Experienced in building predictive models, data pipelines, and actionable insights for business operations
@@ -21,7 +21,6 @@
 
 *[Check out my data science projects below](#-projects)** 👇🏽
 
----
 
 ## Technical Skills  
 - **Programming Languages:** Python, SQL, R  
@@ -29,12 +28,10 @@
 - **Data Management:** Relational DBMS, GraphDB, Snowflake  
 - **Machine Learning Frameworks:** TensorFlow, scikit-learn, PyTorch 
 
----
 
-## 📜 Certifications  
+## Certifications  
 - **Deep Learning Specialization** by Andrew Ng  
 
----
 
 ## 💻 Projects  
 Here are some of the projects I've worked on. Explore the repositories for more details:  
