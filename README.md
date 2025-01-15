@@ -3,8 +3,9 @@
 ---
 
 🎯 **Bridging Business and Technology with Data Science**  
-🎓 MS in Business Analytics at the University of Texas at Austin | BS in Mechanical Engineering
-📍 Passionate about data-driven decision-making and leveraging machine learning to solve real-world business problems.
+🎓 MS in Business Analytics at the University of Texas at Austin
+
+📍 Passionate about data-driven decision-making and leveraging machine learning to solve real-world business problems
 
 ---
 
@@ -14,9 +15,11 @@
 ---
 
 ## 🔍 What I Do
-**Data Analytics & Machine Learning:** Experienced in building predictive models, data pipelines, and actionable insights for business operations.
-**Business Intelligence & Data Visualization:** Skilled in developing dashboards and visualizations to facilitate data-driven decision-making using tools like Tableau, Power BI, and SQL.
-**Real-World Impact:** Worked on projects spanning supply chain analytics, consumer behavior analysis, and NLP-driven insights.
+**Data Analytics & Machine Learning:** Experienced in building predictive models, data pipelines, and actionable insights for business operations
+
+**Business Intelligence & Data Visualization:** Skilled in developing dashboards and visualizations to facilitate data-driven decision-making using tools like Tableau, Power BI, and SQL
+
+**Real-World Impact:** Worked on projects spanning supply chain analytics, consumer behavior analysis, and NLP-driven insights
 
 *[Check out my data science projects below](#-projects)** 👇🏽
 
