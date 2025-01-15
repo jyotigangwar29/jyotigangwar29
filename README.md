@@ -6,7 +6,6 @@
 
 📍 Passionate about data-driven decision-making and leveraging machine learning to solve real-world business problems
 
----
 
 ## 🌐 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas)  
