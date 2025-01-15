@@ -1,6 +1,5 @@
 # Hi, I'm Jyoti! 👋🏽
 
----
 
 🎯 **Bridging Business and Technology with Data Science**  
 🎓 MS in Business Analytics at the University of Texas at Austin
