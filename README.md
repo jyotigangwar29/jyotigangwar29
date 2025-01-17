@@ -32,7 +32,7 @@ I am passionate about data-driven decision-making and leveraging machine learnin
 
 
 ## Certifications  
-- **Deep Learning Specialization** by Andrew Ng  
+- **[Deep Learning Specialization by Andrew Ng](https://drive.google.com/file/d/1S3r_gqwwkTpKEzuUDtqDwEZFBtk5FTBd/view?usp=sharing)**
 
 
 ## 💻 Projects  
