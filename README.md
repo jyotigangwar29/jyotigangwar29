@@ -60,4 +60,7 @@ Here are some of the projects I've worked on. Explore the repositories for more 
 8. **[Competitive Analysis of the Entry-Level Luxury Car Market](https://github.com/jyotigangwar29/competitive-analysis-of-the-entry-level-luxury-car-market)**  
    Conducted a competitive analysis of the entry-level luxury car market, evaluating brand positioning, consumer preferences, and key market players.
 
+9. **[FlightMax: Airline Demand & Revenue Optimizer](https://github.com/jyotigangwar29/Airline-Demand-Revenue-Optimizer)**
+    FlightMax addresses a real-world challenge in airline operations: how to maximize revenue through strategic overbooking without incurring costly passenger rejections.
+
 
