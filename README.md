@@ -1,17 +1,24 @@
 # Hi, I'm Jyoti! 👋🏽
 
-I am passionate about data-driven decision-making and leveraging machine learning to solve real-world business problems.
+I am a data-driven professional with over 5 years of experience leveraging advanced analytics, machine learning, and AI to solve complex business problems and drive measurable impact across marketing, supply chain, and healthcare domains.
 
-🎓 MS in Business Analytics at the University of Texas at Austin
+Currently serving as a Senior Marketing Data Scientist at FedEx Corporation, responsible for:
 
-🎯 **Bridging Business and Technology with Data Science**  
+- Developing customer churn prediction models to enable proactive retention strategies and strengthen relationships with high-value customers.
+
+- Extracting actionable insights from large-scale transactional and behavioral data to guide marketing initiatives and enhance customer lifetime value.
+
+- Partnering with MD and VP-level leadership to translate analytical outcomes into clear business strategies that improve engagement and retention.
+
+Expertise spans across machine learning, predictive modeling, and Generative AI (LLMs, RAG), with hands-on proficiency in Python, PyTorch, SQL, and cloud platforms (AWS, GCP, Databricks). Adept at building scalable data pipelines, deploying AI solutions, and designing intuitive dashboards using Tableau and Power BI to enable data-driven decision-making.
+
+Recognized for combining technical depth with strategic thinking, with a strong track record of transforming complex data models into actionable insights that accelerate growth, optimize operations, and empower business leaders to make smarter, faster decisions.
 
 
 
 
 ## 🌐 Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas)  
-- [jyotikumari@utexas.edu](mailto:jyotikumari@utexas.edu)
+- [LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas) 
 
 
 ## 🔍 What I Do
@@ -25,9 +32,9 @@ I am passionate about data-driven decision-making and leveraging machine learnin
 
 
 ## Technical Skills  
-- **Programming Languages:** Python, SQL, R  
+- **Programming Languages:** Python, SQL, R , PySpark
 - **Data Visualization:** Tableau, Power BI  
-- **Data Management:** Relational DBMS, GraphDB, Snowflake  
+- **Database Management:** Relational DBMS, GraphDB, Snowflake  
 - **Machine Learning Frameworks:** TensorFlow, scikit-learn, PyTorch 
 
 
