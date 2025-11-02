@@ -16,10 +16,10 @@ Recognized for combining technical depth with strategic thinking, with a strong 
 
 
  
-[LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas) 
+*[LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas)*
 
 
-*[Data Science projects](#-projects)*
+*[Data Science projects](https://github.com/jyotigangwar29#projects)*
 
 
 ## Technical Skills  
