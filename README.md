@@ -1,4 +1,4 @@
-# Hi, I'm Jyoti! 👋🏽
+# About Me
 
 I am a data-driven professional with over 5 years of experience leveraging advanced analytics, machine learning, and AI to solve complex business problems and drive measurable impact across marketing, supply chain, and healthcare domains.
 
@@ -15,20 +15,11 @@ Expertise spans across machine learning, predictive modeling, and Generative AI 
 Recognized for combining technical depth with strategic thinking, with a strong track record of transforming complex data models into actionable insights that accelerate growth, optimize operations, and empower business leaders to make smarter, faster decisions.
 
 
+ 
+[LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas) 
 
 
-## 🌐 Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/jyoti-kumari-utexas) 
-
-
-## 🔍 What I Do
-**Data Analytics & Machine Learning:** Experienced in building predictive models, data pipelines, and actionable insights for business operations
-
-**Business Intelligence & Data Visualization:** Skilled in developing dashboards and visualizations to facilitate data-driven decision-making using tools like Tableau, Power BI, and SQL
-
-**Real-World Impact:** Worked on projects spanning supply chain analytics, consumer behavior analysis, and NLP-driven insights
-
-*[Check out my data science projects below](#-projects)** 👇🏽
+*[Data Science projects](#-projects)*
 
 
 ## Technical Skills  
@@ -42,7 +33,7 @@ Recognized for combining technical depth with strategic thinking, with a strong 
 - **[Deep Learning Specialization by Andrew Ng](https://drive.google.com/file/d/1S3r_gqwwkTpKEzuUDtqDwEZFBtk5FTBd/view?usp=sharing)**
 
 
-## 💻 Projects  
+## Projects  
 Here are some of the projects I've worked on. Explore the repositories for more details:  
 
 1. **[AI-Powered-Connect-4-Bot](https://github.com/jyotigangwar29/AI-Powered-Connect-4-Bot)**
